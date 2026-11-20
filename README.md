@@ -4,7 +4,7 @@
 
 I design digital experiences that make complex technology feel simple, intuitive, and human.
 
-Over 15+ years, I've helped shape consumer and enterprise products at **Amazon Prime Video**, **LinkedIn**, and beyond. My work spans product strategy, personalization, complex platforms, and design leadership. I'm increasingly connecting that experience with hands-on prototyping and AI-assisted development.
+Over 15+ years, I've helped shape consumer and enterprise products at **Netflix**, **Amazon Prime Video**, **LinkedIn**, and beyond. My work spans product strategy, personalization, complex platforms, and design leadership. I'm increasingly connecting that experience with hands-on prototyping and AI-assisted development.
 
 [**Portfolio**](https://sealspace.com) · [**Live resume**](https://sealrockswell.github.io/resume/) · [**LinkedIn**](https://www.linkedin.com/in/matthewkearneydesign/) · [**Creative studio repo**](https://github.com/sealrockswell/mattseal)
 
